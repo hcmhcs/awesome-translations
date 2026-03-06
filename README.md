@@ -111,6 +111,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 - [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
+- [ScreenTranslate](https://screentranslate.filient.ai/) - A free macOS menu bar app that translates any text on your screen via area capture (OCR) or text selection, fully on-device.
 
 ## Articles
 
